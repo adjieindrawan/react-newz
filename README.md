@@ -1,3 +1,4 @@
+Demo: [http://react-newz.surge.sh/](http://react-newz.surge.sh//)
 
 
 🔥 __React News__ is a React App showing news results from more than 70 sources. Uses data from [News API](https://newsapi.org/), it's responsive and super snappy for quick switching thanks to React Virtual DOM 🔥
